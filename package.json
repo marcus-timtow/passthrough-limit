@@ -1,0 +1,16 @@
+{
+  "name": "passthrough-limit",
+  "version": "1.0.0",
+  "main": "passthrough-limit.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcus-timtow/passthrough-limit.git"
+  },
+  "keywords": ["stream", "limit", "length"],
+  "author": "Marcus Timtow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcus-timtow/passthrough-limit/issues"
+  },
+  "homepage": "https://github.com/marcus-timtow/passthrough-limit"
+}
